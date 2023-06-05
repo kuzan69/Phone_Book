@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BE64zGkiGhKvv6Fpa9yvt24Kywr+dWS/9T0hBHVpIUI9nFBiRsbrvkZvAajg3hROFp22EDDn5W+UB1bk2PhLrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yosef.shiervani\\Desktop\\DataBas\\Telefon_Bok\\Telefon_Bok\\Telefon_Bok.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yosef.shiervani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
